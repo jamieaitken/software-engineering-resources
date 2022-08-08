@@ -5,9 +5,27 @@
 - [Google Cloud API Design](https://cloud.google.com/apis/design)
 - [Manning's API Security in Action](https://www.manning.com/books/api-security-in-action)
 
+## Frontend 
+
+- [Egghead](https://egghead.io/)
+- [Frontend Masters](https://frontendmasters.com/)
+- [Roadmap for Frontend](https://roadmap.sh/frontend)
+- [W3's Where To Start](https://www.w3schools.com/where_to_start.asp)
+- [Zero To Mastery](https://zerotomastery.io/)
+
 ## General
 
+### Cheat Sheets
+
+- [DevHints](https://devhints.io/)
+- [Oh Shit, Git!?!](https://ohshitgit.com/)
+- [Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+- [Ultimate Terraform Cheat Sheet](https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet)
+
+### Engineering Blogs
+
 - [Airbnb](https://medium.com/airbnb-engineering)
+- [Blogging For Devs](https://bloggingfordevs.com/trends/)
 - [Datadog](https://www.datadoghq.com/blog/engineering/)
 - [Deliveroo](https://deliveroo.engineering/)
 - [Hashicorp](https://www.hashicorp.com/blog/categories/products-technology)
