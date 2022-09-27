@@ -48,6 +48,10 @@
 - [tmrts' Go Patterns](https://github.com/tmrts/go-patterns)
 - [Uber's Go Guide](https://github.com/uber-go/guide)
 
+## Refactoring
+
+- [Refactoring Guru](https://refactoring.guru/)
+
 ## System Architecture
 
 ### Books
